@@ -1,3 +1,10 @@
+################################################################################
+#                                                                              #
+# In this example, I show how to use the `fx` argument of `simulate` to        #
+# introduce more complex behavior into M4MA.                                   #
+#                                                                              #
+################################################################################
+
 library(predped)
 
 # Preliminaries: Defining the environment and linking environment to agent 
